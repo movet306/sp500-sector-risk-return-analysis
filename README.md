@@ -81,5 +81,11 @@ Every step—from data sourcing and web scraping to advanced time series analysi
 **Mert Ovet**  
 [LinkedIn](https://www.linkedin.com/in/mertovet)  
 For questions or collaboration, feel free to reach out.
+## Project Notebook
+
+All code, analysis, and visualizations are documented in the main Jupyter notebook:  
+[**S&P 500 Multi-Year Performance & Risk Analysis (.ipynb)**](https://github.com/movet306/sp500-sector-risk-return-analysis/blob/main/%23%20S%26P%20500%20Stocks%20MultiYear%20Performance%20%26%20Risk%20Analysis%20(3).ipynb)
+
+> Open in GitHub or download to explore the full analysis workflow.
 
 
